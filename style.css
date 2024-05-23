@@ -44,6 +44,7 @@ h1{
 }
 p{
     position: relative;
+    flex-grow: 1;
     font-size: 12px;
     bottom: 15px;
 }
